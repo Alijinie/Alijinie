@@ -33,7 +33,6 @@ I am currently scaling my **Offline Supermarket Point of Sale (POS) Engine** int
 - 💬 Ask me about building desktop apps with Electron or offline-first software architectures.
 - 📫 **Reach out:** `alijinie.proton.me`
 ---
+### 📊 GitHub Activity
 
-### 📊 GitHub Stats
-![Alijinie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alijinie&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alijinie&layout=compact&theme=darkali
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alijinie&theme=dark)
