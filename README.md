@@ -31,7 +31,7 @@ I am currently scaling my **Offline Supermarket Point of Sale (POS) Engine** int
 - 💼 Available for freelance work on custom Node.js, Electron, and full-stack web applications.
 - 🌱 Deepening my knowledge of JavaScript patterns, system architecture, and SaaS scaling.
 - 💬 Ask me about building desktop apps with Electron or offline-first software architectures.
-- 📫 **Reach out:** `alijinie.proton.me`
+- 📫 **Reach out:** `alijinie@proton.me`
 ---
 ### 📊 GitHub Activity
 
