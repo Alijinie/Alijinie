@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Alijinie 👋
+# Hi there, I'm Stanley 'Alijinie' Bagambisa 👋
 
 > **Freelance Software Developer** | Building Desktop & Web Solutions
 
